@@ -1,0 +1,17 @@
+.Side-B{
+  .ui.menu {
+
+    i.icon {
+      float: initial !important;
+      margin: 0 !important;
+      margin-right: 10px !important;
+    }
+  }
+
+  .content {
+    position: absolute;
+    right: 0;
+    padding: 20px;
+    width: calc(100% - 250px);
+  }
+}
